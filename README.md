@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML, CSS, JavaScript
 - ReactJS, Styled-components
-- Axios
+- Axios, Vite.js
 
 ## 💻 Projeto
 
